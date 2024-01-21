@@ -8,3 +8,7 @@ canvas {
     background: black;
     position: absolute;
 }
+
+#image {
+    display: none;
+}
